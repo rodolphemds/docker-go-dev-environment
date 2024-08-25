@@ -104,7 +104,7 @@ Quick overview of project structure, components and their roles.
 ├── 📖README.md
 ```
 
-## Sources
+## Credits
 - https://medium.com/gitconnected/go-restful-series-a7addbfef5b1
 - https://github.com/phuctm97/go-restful
 - https://hub.docker.com/_/golang
